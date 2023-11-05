@@ -4,16 +4,16 @@ This is the GitHub repository for my recent article, [Grounded Intuition of GPT-
 
 This paper contributes:
 
-- an in-depth qualitative analysis of GPT-Vision's generations of images from scientific papers,
+- an in-depth qualitative analysis of GPT-Vision's generations of images from scientific papers, and
 - a formalized procedure for qualitative analysis based on grounded theory and thematic analysis in social science/HCI literature,
-- and our images and generated passages for further research and reproducibility.
+- our images and generated passages for further research and reproducibility.
 
 We used two prompts to generate passages for each image:
 
-- Write alt text to describe this <type>.
-- Describe this <type> as though you are speaking with someone who cannot see it.
+- Write alt text to describe this \<type\>.
+- Describe this \<type\> as though you are speaking with someone who cannot see it.
 
-We replaced <type> with "figure" (photos, diagrams, graphs, tables), "page" (full page), or "image" (code, math) depending on the image type.
+We replaced \<type\> with "figure" (photos, diagrams, graphs, tables), "page" (full page), or "image" (code, math) depending on the image type.
 
 The images can be found in the `images` directory. Each file is named with the following convention:
 
