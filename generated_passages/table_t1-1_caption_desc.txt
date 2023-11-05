@@ -1,0 +1,35 @@
+Certainly, I'll describe the table to you.
+
+This table is titled "Table 1: Participants". The subtitle underneath mentions that the participants were mostly graduate students who chose a wide variety of recipes to prepare. It states that they represented a range of cooking skills which are self-rated on a 5-point Likert scale and it also shows the frequency with which they used a voice assistant, labeled as "Prior Use".
+
+The table itself has four columns. From left to right, the columns are titled "ID", "Selected Recipe", "Self-Rated Skill", and "Prior Use". 
+
+There are 12 rows of data in the table representing 12 participants, identified as C1 through C12.
+
+I'll go through each participant's info:
+
+- C1 chose to prepare "Steaks with Blue Cheese Butter". They rated their skill as 4 out of 5. They use the voice assistant daily.
+  
+- C2 made "Eggless Red Velvet Cake". Their self-rated skill is 3 out of 5. They use the voice assistant weekly.
+  
+- C3 prepared "Sesame Pork Milanese". They rated themselves 4 out of 5 on skill. Their voice assistant usage is less than monthly.
+  
+- C4 cooked "Honey Garlic Chicken Wings". They have a self-rated skill of 3 out of 5 and use the voice assistant less than monthly.
+  
+- C5 went for "Teriyaki Salmon". They have a 4 out of 5 self-rated skill and use the voice assistant monthly.
+  
+- C6 prepared "Seafood Marinara". They rated their skill as 4 out of 5 but have never used a voice assistant.
+  
+- C7 cooked "Honey Soy-Glazed Salmon". They have a self-rated skill of 4 out of 5 and have never used a voice assistant.
+  
+- C8 prepared "Sausage and Veggie Quiche". They rated themselves as 3 out of 5 on skill and use the voice assistant daily.
+  
+- C9 chose "Egg Biryani". They have a self-rated skill of 4 out of 5 and use the voice assistant weekly.
+  
+- C10 went with "Herb-Roasted Salmon with Tomato-Avocado Salsa". They rated themselves 3 out of 5 on skill and use the voice assistant weekly.
+  
+- C11 prepared "Lebanese Chicken Fatteh". They have a self-rated skill of 4 out of 5 and have never used a voice assistant.
+  
+- And finally, C12 cooked "Ground Beef Bulgogi". They rated their skill as 3 out of 5 and use the voice assistant weekly.
+
+That's the entire table. It seems to be a study involving participants with varying cooking skills and their interactions with voice assistants during the cooking process.

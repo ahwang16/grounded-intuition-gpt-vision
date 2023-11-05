@@ -1,0 +1,11 @@
+The image is a photo of a section of an academic paper or textbook, focused on a specific topic titled "3.1 Decoder: General Description." The font and formatting suggest that it is from a technical or scholarly source. The whole image is in black text on a white background.
+
+In the section, it begins with a sentence that talks about defining a conditional probability in a new model architecture, represented as Equation (2). The conditional probability is mathematically represented as p(y_i|y_1, ..., y_{i-1}, x) = g(y_{i-1}, s_i, c_i), where y_i is the target word, y_1 through y_{i-1} are previously observed words in the sequence, x is the input sequence, s_i is an RNN (Recurrent Neural Network) hidden state for time i, and c_i is a context vector. This is labeled as Equation (4). 
+
+The text then makes a remark that, unlike the existing encoder-decoder approach (shown in Equation (2)), in this scenario, the probability is conditioned on a separate context vector, c_i, for each target word.
+
+The next paragraph discusses the context vector, c_i, and explains how it relies on a sequence of annotations indicated as h_1 through h_T, to which an encoder maps the input sentence. It mentions that each annotation, h_t, holds information about the entire input sequence but with a special emphasis on the parts surrounding the i-th word of the input sequence. The text states that a detailed explanation of how the annotations are formed will be provided in the next section.
+
+Lastly, it shows another mathematical equation, which calculates the context vector, c_i. This equation is represented as c_i = Σ (from j=1 to T) of α_ij * h_j. This is shown as Equation (5) in the text. This equation demonstrates that the context vector is computed as a weighted sum of the annotations h. 
+
+The notation used in the text and the equations is mathematical in nature, showing mathematical symbols like summation, vectors, and mapping variables.

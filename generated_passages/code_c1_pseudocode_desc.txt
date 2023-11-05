@@ -1,0 +1,19 @@
+Certainly! The image shows a pseudocode of an algorithm titled "Algorithm ONLINE MATCH". The pseudocode is presented as a structured piece of text with indents that signify the hierarchy or nesting of steps within the algorithm.
+
+The algorithm has two requirements:
+1. A scaling parameter, which is denoted as "γ" (the Greek letter gamma), and it should be a value between 0 and 1, inclusive.
+2. It also takes input, which is described as "Online arrivals of agents".
+
+The algorithm goes as follows:
+
+1. First, it calculates "(a_xy)" by finding the solution to something termed as "LP-UB". Here, "a_xy" probably refers to a certain value that depends on x and y, and "LP-UB" probably stands for a Linear Programming Upper Bound or something similar, that needs to be solved.
+
+2. The algorithm then enters a loop where for each agent "i" arriving at time "t", of say type "y" element of "Y", it further loops through each type "x" in "X" in a uniformly random order.
+
+3. Inside this nested loop, there is a conditional statement that checks if there is at least one unmatched agent "j" of type "x" in the market.
+
+4. If this condition is true, the algorithm matches agent "i" and "j" with a certain probability, which is calculated as the scaling parameter "γ" times "a_xy" times the maximum of 1 and "μ_x", where "μ_x" is some variable, divided by "λ_j", where "λ_j" is some other variable.
+
+The algorithm ends after these steps.
+
+The pseudocode is written in a very structural manner, resembling code that could be implemented in a programming language, but it’s more of a human-readable format. It seems to represent an algorithm for matching agents in a dynamic/online environment based on certain criteria.

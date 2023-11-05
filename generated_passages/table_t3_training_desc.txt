@@ -1,0 +1,15 @@
+The table you're inquiring about appears to be exhibiting the performance of different machine-learning models against varying sizes of training corpora. It is displayed as a grid with elements such as Model, Training Scheme, and then four columns representing the size of the training corpus as 0.5K, 2K, 8K, and 34K.
+
+Let me describe the layout and contents more specifically:
+
+- The first column is labeled "Model" and lists seven different models named from the top down: Dice, Dice+C, Model 1, Model 2, Model 3, Model 4, Model 5, and Model 6.
+  
+- The second column is titled "Training scheme" and displays specific training schemes for each model. For example, Dice and Dice+C do not have a training scheme assigned, while others have formulas resembling mathematical expressions with exponents denoted by carets, like '1^5^2' for Model 1, '1^5^2^3' for Model 2, and so on.
+
+- The next four columns display numerical values representing performance statistics in relation to the size of the training corpus. These are titled "0.5K", "2K", "8K", and "34K".
+
+- As an example, for the Dice model, the values under the 0.5K, 2K, 8K, and 34K columns are respectively 28.4, 29.2, 29.1, and 29.0.
+
+- Furthermore, as you move down the rows to Model 6, the values generally decrease. For instance, Model 6 has values of 16.4, 11.7, 8.8, and 5.7 under the 0.5K, 2K, 8K, and 34K columns.
+
+This table seems to suggest that the performance of these models changes based on the training schemes and the size of the training corpora, with the performance statistics most likely measured in error rates or some accuracy metric.

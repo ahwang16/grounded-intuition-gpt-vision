@@ -1,0 +1,35 @@
+"This figure comprises a set of eight pie charts that seem to be comparing different versions of language models, including human responses, in terms of various error categories.
+
+From the top left and moving in rows:
+1. The first pie chart represents “GPT2-XL (p = 0.0)”.
+2. Next to it is “GPT2-XL (p = 0.4)”.
+3. The third in the top row is “GPT2-XL (p = 1.0)”.
+4. The last one in the top row represents “Human”.
+
+5. The first one in the second row is labeled “GPT2”.
+6. Next to it is “GPT2-XL (Fine-tuned)”.
+7. The third in the second row is “CTRL (Politics)”.
+8. The final one in the second row is labeled “CTRL (Random)”.
+
+9. Additionally, there is a ninth pie chart that is not arranged with the others, but instead, it is placed at the bottom right corner of the figure. It is labeled “Random”.
+
+Each pie chart is divided into sections that represent different error categories, indicated by colors:
+
+- Blue signifies grammar errors.
+- Green is for repetitions.
+- Purple is for irrelevance.
+- Yellow represents contradictions with sentence context or knowledge.
+- Light Purple represents commonsense and coherence errors.
+- Orange is for coreference errors.
+- Red is for generic errors.
+- Gray represents other errors.
+
+The percentage of each error is displayed in each section of the pie charts.
+
+For illustration, the “GPT2-XL (p = 0.0)” has sections like 31% for red (generic errors), 12% for orange (coreference errors), and several other sections of different sizes and colors.
+
+In contrast, the “Human” pie chart has a relatively large blue section constituting 31%, and much smaller sections for other categories.
+
+The last pie chart labeled “Random” has a very dominant gray section covering 61% of the pie, and the rest of the pie is divided into much smaller sections with different colors. 
+
+The pie charts seem to be a visual representation of how varying the parameters or versions of language models, and human responses, affect the kind and proportion of errors made in language generation or tasks."

@@ -1,0 +1,22 @@
+This page appears to be an excerpt from an academic or research article titled "Rewriting the Script: Adapting Text Instructions for Voice Interaction". The page belongs to the DIS '23 proceedings, which took place from July 10-14, 2023, in Pittsburgh, PA, USA. The layout of the page is in a two-column format typical of academic papers. 
+
+On the top left half of the page, there is a sub-heading "3.4 Analysis" followed by text that describes a study analysis. It mentions that the study used four kinds of data: audio and video recordings, researcher notes, questionnaire data, and annotated paper recipes. The text goes on to describe different approaches and stages of analysis, including use of thematic analysis and coding charts.
+
+Directly next to this, on the top right half of the page, there's another sub-heading "4.1 Overview" which pertains to a new section, probably titled "4 RESULTS" but the title is not visible on this page. The text in this segment speaks about cookbook recipes that vary in complexity, and how participants interacted with a voice assistant. The text also includes percentages, statistics, and other data describing the participants’ interactions.
+
+The largest portion of the page is taken up by an image or figure, labeled as "Figure 3: Completed dishes." The figure itself is comprised of eight photographs of various dishes that were prepared by participants in the study. Each of these photographs show a plate with a completed dish, and they are arranged in two rows of four photos each. The dishes are:
+
+1. Steak with Blue Cheese Butter (C1) – This appears to be a steak covered with melted blue cheese butter and garnish.
+2. Eggless Red Velvet Cake (C2) - A slice of red velvet cake is displayed without any egg ingredients.
+3. Sesame Pork Milanese (C3) - This dish consists of breaded pork cutlets, possibly coated in sesame seeds.
+4. Honey Garlic Chicken Wings (C4) - A plate of chicken wings glazed with honey garlic sauce.
+5. Teriyaki Salmon (C5) - A piece of salmon coated in teriyaki sauce, perhaps with some vegetables.
+6. Seafood Marinara (C6) - A dish with a mix of seafood items like shrimp and mussels in a tomato sauce.
+7. Honey Soy Glazed Salmon (C7) - A salmon fillet coated in honey and soy glaze.
+8. Sausage and Veggie Quiche (C8) - A piece of quiche with sausage and vegetables visible in the filling.
+
+There are four more smaller pictures beneath these, representing other dishes including Egg Biriyani, Lebanese Chicken Fatteh, Herb Roasted Salmon with Tomato Avocado Salsa, and Ground Beef Bulgogi, but the details of these dishes are not clearly visible.
+
+The caption of the figure explains that the cooks prepared various dishes of their choice by following guidance from a voice assistant. It also indicates that some dishes required longer interaction with the voice assistant, while others involved just a few steps.
+
+At the bottom of the page, there is a header that says '2237', which might indicate the page number of the publication.

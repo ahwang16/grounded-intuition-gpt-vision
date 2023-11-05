@@ -1,0 +1,19 @@
+"Certainly! This figure is a set of three bar graphs side by side, each representing different categories of text - (a) News, (b) Speeches, and (c) Stories. The graphs are comparing the average number of occurrences of named entities and novel named entities in sentences that belong to one of four groups: human-written, machine-generated, never selected by a player, or selected by one or more players.
+
+Along the vertical axis, we have the average number of occurrences, which ranges from 0 to 2.5. The horizontal axis represents two types of entities - named entity and novel named entity. In each graph, these entity types have four bars associated with them, each bar representing one of the sentence groups I just mentioned: human-written, machine-generated, never selected by a player, or selected by one or more players.
+
+The bars are colored differently. Human-written sentences are represented with a light blue color, machine-generated sentences are shown in dark red, sentences that were never selected by a player are in blue, and sentences that were selected by one or more players are in a pinkish-brown color.
+
+For the first graph labeled (a) News:
+- Named entities have roughly 2.0 occurrences on average in human-written sentences, about 1.5 in machine-generated, nearly 1.6 in those never selected by a player, and around 1.9 in sentences selected by one or more players. 
+- Novel named entities are somewhat lower, with averages between 0.8 and 1.1 for all groups.
+
+In the second graph labeled (b) Speeches:
+- Named entities have an average of around 1.5 occurrences in human-written sentences, close to 1.1 in machine-generated, approximately 1.3 in sentences never selected by a player, and just over 1.4 in sentences selected by one or more players.
+- Novel named entities have fewer averages ranging from around 0.3 to 0.8.
+
+In the third graph labeled (c) Stories:
+- Named entities have just over 1.0 occurrences on average in human-written sentences, approximately 1.5 in machine-generated, close to 1.2 in sentences never selected by a player, and around 1.3 in sentences selected by one or more players.
+- Novel named entities are lower with averages between 0.6 and 0.9.
+
+So, in summary, this figure shows bar graphs comparing the average occurrences of named and novel named entities in four groups of sentences across news, speeches, and stories."

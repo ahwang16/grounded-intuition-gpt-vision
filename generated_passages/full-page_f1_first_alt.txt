@@ -1,0 +1,9 @@
+This is an image of an academic paper titled "Rewriting the Script: Adapting Text Instructions for Voice Interaction". The authors of the paper are Alyssa Hwang, Natasha Oza, Chris Callison-Burch, and Andrew Head, who are affiliated with the University of Pennsylvania. The page contains various sections such as the abstract, keywords, and introduction.
+
+In the Abstract section, the paper discusses how voice assistants have gained popularity in recent years. However, their functionality has mostly been limited to simple applications. The paper explores how to make voice assistants more effective by structuring the guidance they provide in a better and more recognizable way. It mentions using recipes as an example to elaborate on users' varying needs and how voice assistants can effectively help users with complex requirements.
+
+In the Introduction section, the paper delves into how voice assistants have entered everyday life. It talks about their evolution and how they have started being used in various domains. The section points out challenges faced by voice assistants such as information overload and ineffective communication. The paper aims to learn how voice interaction can be made more efficient and what it lacks in comparison to written instruction formats. The objective is to combine both sources into a more effective voice guide.
+
+The page also contains subsections such as "CCS Concepts" referring to computing classifications and "Keywords", providing focal points such as voice assistants, instructions, user interfaces, and complex task guidance.
+
+The bottom part of the image indicates that the paper is licensed under the Creative Commons Attribution International license, and provides data about the publication at a conference in Pittsburgh.

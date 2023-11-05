@@ -1,0 +1,9 @@
+This page is a portion of an academic or research paper that seems to focus on a subject related to adapting text instructions for voice interaction. The page contains a table and two sections of text. The table, labeled as "Table 3: HCI goals and relevant work from NLP," is the main feature of the page and has three columns with various rows. The columns are titled "HCI Goal", "Description", and "Related NLP Tasks". There is also a fourth column which is titled "Selected Research". 
+
+The "HCI Goal" column lists 8 goals, numbered from 1 to 8. These goals are: Summarize, Signpost, Split, Elaborate, Volunteer, Reorder, Redistribute, and Visualize. The "Description" column explains each goal. For example, "Summarize" is described as providing overviews of entire procedures and complex steps. The "Related NLP Tasks" column relates these goals to Natural Language Processing (NLP) tasks such as Summarization for the goal "Summarize". The "Selected Research" column lists one or more relevant research papers or studies for each goal.
+
+Below the table, there are two sections of text. The first section is headed with "5.4 Futures with Voice Assistants that Rewrite the Script", and it appears to discuss the potential development of voice assistants capable of adapting and simplifying textual information. It mentions leveraging advanced Natural Language Processing tasks to achieve this.
+
+The second section does not have a heading and seems to be a continuation of the first section. It suggests what it would mean if voice assistants were able to guide users through complex tasks efficiently.
+
+Overall, the page appears to be part of a scholarly article discussing Human-Computer Interaction (HCI) and how Natural Language Processing could be used to enhance voice instructions.

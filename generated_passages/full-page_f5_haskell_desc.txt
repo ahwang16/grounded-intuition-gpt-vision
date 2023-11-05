@@ -1,0 +1,13 @@
+This page contains textual content that appears to be an excerpt from a published research paper in the year 2023. The title of the paper or the broader context is not visible on this page.
+
+The text features two side-by-side code snippets at the top of the page, which are part of Figure 1 and are labeled as generators for binary trees. The code examples are bracketed by lines that form boxes around them to separate them from the rest of the text on the page, and each code snippet has a label just below the box bracket, with (a) on the left and (b) on the right.
+
+In the left code snippet labeled as (a) "QuickCheck generator", it shows how a binary tree can be generated using Haskell, a functional programming language. The code contains a function 'bst' that takes two integers as inputs and returns a Tree type. The function uses the QuickCheck library's 'frequency' function to generate either a Leaf node or a recursive Node with two sub-trees.
+
+The right code snippet labeled as (b) "Reflective generator" is similar to the one on the left but seems to be written in slightly different syntax. It also generates binary trees and has similar logic but uses functions called 'focus' and 'exact'.
+
+Below the code snippets, there is a main block of text that is composed of a detailed and technical explanation. This text is clearly academic in nature and uses domain-specific language typical in scholarly articles. It discusses the concept of generators processing unstructured randomness and turning it into structured values. The text mentions that generators can act as parsers and that shrinking and mutation can be implemented generically. It also discusses the importance of Hive property-preserving algorithms and goes on to introduce the concept of "reflective generators". "Reflective Generators" are described as a language for creating bidirectional generators that can reflect on values and analyze which choices led to those values.
+
+The bottom of the page contains a citation with publication details, reading “Proc. ACM Program. Lang., Vol. 7, No. ICFP, Article 200. Publication date: August 2023”. 
+
+The four authors are also named at the top of this page: Harrison Goldstein, Samantha Fritsche, Ming Wang, and Benjamin C. Pierce.

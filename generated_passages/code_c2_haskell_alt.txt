@@ -1,0 +1,5 @@
+This image contains a page of textual content with Haskell code for an appendix section titled "PROOFS OF LEMMA 4.1 (LAWS)" which outlines the proofs for equations from Lemma 4.1. The image starts by enumerating the following equations to be proven: M(1), M(3), PMP(3), and PMP(4). It then provides necessary definitions for the proof including:
+
+1. The definition of a data type `Freer` with constructors `Return` and `Bind`.
+2. The definition of another data type `R` with constructors `Pick`, `Lmap`, `Prune`, `ChooseInteger`, `GetSize`, and `Resize`.
+3. The type alias `Reflective` defined as `Freer (R b)`.

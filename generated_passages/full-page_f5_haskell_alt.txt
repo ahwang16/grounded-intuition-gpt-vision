@@ -1,0 +1,9 @@
+This image is a page from a research publication which shows two code snippets in Haskell language, comparing two different types of generators for binary trees. The page has mathematical symbols and technical terms commonly found in computer science literature.
+
+At the top, the page has the header with the year "2002" on the left and the authors’ names, "Harrison Goldstein, Samantha Fritsche, Meng Wang, and Benjamin C. Pierce" on the right. Below the header, there is a figure titled "Fig. 1. Generators for binary trees" which consists of two parts: (a) QuickCheck generator, and (b) Reflective generator.
+
+Both (a) and (b) include code snippets that define similar functions in Haskell, but with different methods. The code in (a) is labeled as "QuickCheck generator" and shows a traditional method of generating binary search trees. The code contains conditions, choice making, recursion, and node building. The code in (b) is labeled as "Reflective generator" and presents an alternative method where the generator can “reflect” on the values to analyze which choices produced it, and seems to involve more functions and focuses.
+
+Below the code snippets, there is an extensive text explaining the technical background and relevant information about the generators. The text includes terms like 'random choices', 'generators as parsers', 'grammar-based generator', and 'bidirectional generation'.
+
+At the bottom of the page, there is a citation: "Proc. ACM Program. Lang., Vol. 7, No. ICFP, Article 200. Publication date: August 2023."

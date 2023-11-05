@@ -1,0 +1,31 @@
+"Imagine a vibrant collage showcasing various scrumptious dishes that have been prepared by different cooks following the guidance of a voice assistant. This collage is in a two-row rectangular format with six dishes displayed on each row.
+
+Starting from the top left corner:
+
+1. “Steaks with Blue Cheese Butter (C1)” shows a close-up of a succulent steak resting on a white plate. A dollop of blue cheese butter beautifully melts over the top of the steak which appears to be cooked to a perfect medium-rare.
+
+2. Moving to the right, “Eggless Red Velvet Cake (C2)” is presented. This dish is beautifully plated on a gold square board. The cake is bright red and is topped with circular placements of white icing. The board is also decorated with red rose petals alongside the cake.
+
+3. Next, we see “Sesame Pork Milanese (C3)”, which is a visually appealing dish consisting of a golden-brown breaded pork cutlet served with a fresh salad. The salad has lettuce, cherry tomatoes, and cheese. It's all served on a black plate along with a knife and fork.
+
+4. Beside it is “Honey Garlic Chicken Wings (C4)” which feature chicken wings coated in a glossy, sticky sauce in a white bowl. They look caramelized and have sesame seeds sprinkled over them.
+
+5. Going further right, “Teriyaki Salmon (C5)” shows a delicious-looking piece of salmon which is glazed with teriyaki sauce. The salmon is seen lying on an aluminum foil, probably just taken out of the oven. It’s cooked with herbs and has a caramelized appearance.
+
+6. The last dish on the top row is “Seafood Marinara (C6)”. It's a plate of spaghetti mixed with assorted seafood in a marinara sauce. The dish is in a deep plate and the seafood, including shrimps, is prominently visible.
+
+Moving to the bottom row from the left:
+
+7. “Honey Soy-Glazed Salmon (C7)” is another salmon dish, this one shows a fillet garnished with sesame seeds and small vegetable toppings, probably spring onions. The glaze gives it a lovely sheen.
+
+8. Next to that is “Sausage and Veggie Quiche (C8)”. There are several small round quiches on a gray plate. They are golden brown, with bits of sausage and vegetables peeking through the top.
+
+9. Moving to the right, “Egg Biryani (C9)” is an Indian dish which is presented in a big red pot. It seems to be a mixture of rice, spices, and the main ingredient, eggs, as well as garnishes like coriander.
+
+10. Alongside is “Lebanese Chicken Fatteh (C10)”. It’s cooked in what looks like a red pot. Visible ingredients include flatbread, chicken, and it appears to be garnished with herbs and white sauce.
+
+11. Next is “Herb-Roasted Salmon with Tomato-Avocado Salsa (C11)”. The dish, placed on a baking sheet, features two roasted salmon fillets that are coated with herbs. There’s a colorful tomato and avocado salsa on the side.
+
+12. Finally, at the bottom-right corner is “Ground Beef Bulgogi (C12)”. This dish is simply presented on a white plate and looks like a stir-fry of ground beef with elements like onions and a garnish of chopped green spring onions on top.
+
+Overall, the figure showcases a glorious array of culturally diverse and visually appealing dishes created with assistance from a voice-controlled device."
