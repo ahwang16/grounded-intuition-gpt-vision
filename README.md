@@ -4,8 +4,8 @@ This is the GitHub repository for my recent article, [Grounded Intuition of GPT-
 
 This paper contributes:
 
-- an in-depth qualitative analysis of GPT-Vision's generations of images from scientific papers, and
-- a formalized procedure for qualitative analysis based on grounded theory and thematic analysis in social science/HCI literature,
+- an in-depth qualitative analysis of GPT-Vision's generations of images from scientific papers,
+- a formalized procedure for qualitative analysis based on grounded theory and thematic analysis in social science/HCI literature, and
 - our images and generated passages for further research and reproducibility.
 
 We used two prompts to generate passages for each image:
