@@ -1,6 +1,9 @@
 # Grounded Intuition of GPT-Vision's Abilities with Scientific Images
 
+## Overview
 This is the GitHub repository for my recent article, [Grounded Intuition of GPT-Vision's Abilities with Scientific Images](https://arxiv.org/abs/2311.02069).
+
+**Coming soon: Colab notebook for running GPT-Vision on the API.**
 
 This paper contributes:
 
@@ -24,6 +27,12 @@ The images can be found in the `images` directory. Each file is named with the f
 with decimals in image IDs replaced by hyphens. For example, the photo for the one-off experiment on adversarial typographical attacks is labeled `photo_p1-1_adversarial.png`.
 
 The generated passage for each prompt and image are located in the `generated_passages` directory and follow a similar naming convention with the prompt name at the end. The prompts for `photo_p1-1_adversarial.png` can be found in `photo_p1-1_adversarial_alt.png` and `photo_p1-1_adversarial_desc.png`.
+
+## We're on the news!
+
+- As OpenAI's Multimodal API Launches Broadly, Research Shows It's Still Flawed, [TechCrunch](https://techcrunch.com/2023/11/06/openai-gpt-4-with-vision-release-research-flaws/)
+
+## Suggested citation
 
 If you would like to cite the paper or repository, you can use
 
