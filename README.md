@@ -3,7 +3,7 @@
 ## Overview
 This is the GitHub repository for my recent article, [Grounded Intuition of GPT-Vision's Abilities with Scientific Images](https://arxiv.org/abs/2311.02069).
 
-**Coming soon: Colab notebook for running GPT-Vision on the API.**
+**~Coming soon: Colab notebook for running GPT-Vision on the API.~ Now available!**
 
 This paper contributes:
 
@@ -31,6 +31,7 @@ The generated passage for each prompt and image are located in the `generated_pa
 ## We're on the news!
 
 - As OpenAI's Multimodal API Launches Broadly, Research Shows It's Still Flawed, [TechCrunch](https://techcrunch.com/2023/11/06/openai-gpt-4-with-vision-release-research-flaws/)
+- ChatGPT-Maker OpenAI Hosts its First Big Tech Showcase as the AI Startup Faces Growing Competition, [Associated Press](https://apnews.com/article/chatgpt-openai-tech-showcase-da850be425aaa269e2915e9e0b1c726a)
 
 ## Suggested citation
 
