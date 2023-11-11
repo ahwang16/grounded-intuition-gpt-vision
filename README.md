@@ -1,4 +1,4 @@
-# Grounded Intuition of GPT-Vision's Abilities with Scientific Images
+![Grounded Intuition of GPT-Vision's Abilities with Scientific Images](grounded_intuition_github.png)
 
 ## Overview
 This is the GitHub repository for my recent article, [Grounded Intuition of GPT-Vision's Abilities with Scientific Images](https://arxiv.org/abs/2311.02069).
